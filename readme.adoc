@@ -12,9 +12,9 @@ musl libc.
 === Acknowledgements
 
 1. https://gitlab.alpinelinux.org/alpine/aports/-/blob/master/community/chromium[Alpine Linux]
+2. https://github.com/chimera-linux/cports/tree/master/main/chromium/patches[Chimera Linux]
 
 === Licenses
 
-These patch files come straight from the alpine aports repository. Please visit
-https://gitlab.alpinelinux.org/alpine/aports/-/blob/master/community/chromium
-for more information.
+These patch files come straight from the alpine aports and chimera cports
+repositories. Please visit their respective pages for more information.
