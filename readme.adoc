@@ -1,0 +1,20 @@
+== Description
+
+[WARNING]
+====
+Since gitea does not support relative links for asciidoc files, I have used
+absolute links instead. This means that they will not work for mirrors.
+====
+
+This repository holds patches that are required for chrommium to build against
+musl libc.
+
+=== Acknowledgements
+
+1. https://gitlab.alpinelinux.org/alpine/aports/-/blob/master/community/chromium[Alpine Linux]
+
+=== Licenses
+
+These patch files come straight from the alpine aports repository. Please visit
+https://gitlab.alpinelinux.org/alpine/aports/-/blob/master/community/chromium
+for more information.
